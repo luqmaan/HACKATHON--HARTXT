@@ -1,15 +1,18 @@
-Linux installation
+HARTXT
+=============
 
--Install NODE package: 
+SPARKTECH created an SMS system that allows passengers to text the location ID, already provided at each stop, with the Bus Number they want and receive an automated response with the next 3 times the bus will arrive. It also is available in spanish and is blind accessible.
 
-sudo apt-get install python-software-properties
-sudo apt-add-repository ppa:chris-lea/node.js
-sudo apt-get update
-sudo apt-get install nodejs npm
+Ubuntu Installation
+-------------
 
-
--run Controller.js in the background: nohup node controller.js &
-
-(May need to hit enter acouple times to clear nohup. You may log out of the server at this point.)
--Send text to 813-434-1117 in format: <es> locationID (space) Bus#/Route#
-(ie: "es 1234 34" (spanish) or "1234 34" (english))
++ Install NODE package
+	- sudo apt-get install python-software-properties
+	- sudo apt-add-repository ppa:chris-lea/node.js
+	- sudo apt-get update
+	- sudo apt-get install nodejs npm
++ Run controller.js:
+	-	node controller.js
+	-	for background mode: nohup node controller.js &
+	
+http://createch.github.com/HACKATHON--HARTXT/
