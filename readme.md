@@ -5,6 +5,14 @@ http://createch.github.com/HACKATHON--HARTXT/
 
 SPARKTECH created an SMS system that allows passengers to text the location ID, already provided at each stop, with the Bus Number they want and receive an automated response with the next 3 times the bus will arrive. It also is available in spanish and is blind accessible.
 
+Try It!
+-------------
+
+McKinley Drive & Fowler Ave Stop
+Text "1619 5" to (813) 434-1117
+For spanish Text "ES 1619 5"
+
+
 Ubuntu Installation
 -------------
 
