@@ -8,9 +8,16 @@ SPARKTECH created an SMS system that allows passengers to text the location ID, 
 Try It!
 -------------
 
-McKinley Drive & Fowler Ave Stop
-Text "1619 5" to (813) 434-1117
-For spanish Text "ES 1619 5"
+Want to know when the HART bus gets to the McKinley Drive & Fowler Ave stop?
+
++ Text "1619 5" to (813) 434-1117
++ For Spanish text "ES 1619 5"
+
+Or when the HART bus gets to the Hyatt Regency stop?
+
++ Text "5872 46" to (813) 434-1117  
++ For Spanish text "ES 5872 46"*  
+
 
 
 Ubuntu Installation
