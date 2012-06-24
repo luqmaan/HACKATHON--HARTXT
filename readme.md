@@ -1,7 +1,7 @@
 HARTXT
 =============
 
-Case Study: http://createch.github.com/HACKATHON--HARTXT/
+http://createch.github.com/HACKATHON--HARTXT/
 
 SPARKTECH created an SMS system that allows passengers to text the location ID, already provided at each stop, with the Bus Number they want and receive an automated response with the next 3 times the bus will arrive. It also is available in spanish and is blind accessible.
 
@@ -18,6 +18,8 @@ Ubuntu Installation
 	-	for background mode: nohup node controller.js &
 	
 
+Case Study
+-------------
 
 ### PROBLEM
 
