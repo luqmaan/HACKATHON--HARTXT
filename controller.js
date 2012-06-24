@@ -274,7 +274,7 @@ emitter.on('times-found', function (times, route_id, stop_id, from, stop_name, s
         // valid input; send message with time
         // You're at ______ and _______.  The next __ Bus will arrive at: ____, ____ and ____.
         message = "You're at " + stop_name + ". Bus " + route_id + " will arrive at: ";
-        if (spanish) message = "Estas localized entre " + stop_name + ". El proximo autobus " + route_id + " llega a: ";
+        if (spanish) message = "Estas localado entre " + stop_name + ". El proximo autobus " + route_id + " llega a: ";
 
         // for each time in times, append it to the message
         var key, count = 0;
